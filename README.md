@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Vinit%20Churi&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20engineer%20%C2%B7%20Mumbai&descSize=16&descAlignY=60" width="100%" alt="Vinit Churi — Full-stack engineer, Mumbai" />
+<img src="./banner.svg" width="100%" alt="Vinit Churi — Full-stack engineer, Mumbai" />
 
 I build and run production web products end to end: the frontend, the API, the background
 workers, and the deploy. Full-stack engineer at **KuberHunt** by day, shipping my own products
